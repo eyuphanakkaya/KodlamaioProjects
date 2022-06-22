@@ -1,0 +1,7 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\bin\Debug\Generic.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\bin\Debug\Generic.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\bin\Debug\Generic.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\obj\Debug\Generic.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Generic\obj\Debug\Generic.pdb

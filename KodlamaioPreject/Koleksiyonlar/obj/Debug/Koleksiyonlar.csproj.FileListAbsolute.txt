@@ -1,0 +1,7 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb

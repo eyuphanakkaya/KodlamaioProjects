@@ -1,0 +1,6 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Constructors\bin\Debug\Constructors.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Constructors\obj\Debug\Constructors.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Constructors\obj\Debug\Constructors.pdb

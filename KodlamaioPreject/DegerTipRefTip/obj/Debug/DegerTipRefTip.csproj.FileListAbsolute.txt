@@ -1,0 +1,6 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\DegerTipRefTip\bin\Debug\DegerTipRefTip.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\DegerTipRefTip\bin\Debug\DegerTipRefTip.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\DegerTipRefTip\bin\Debug\DegerTipRefTip.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\DegerTipRefTip\obj\Debug\DegerTipRefTip.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\DegerTipRefTip\obj\Debug\DegerTipRefTip.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\DegerTipRefTip\obj\Debug\DegerTipRefTip.pdb

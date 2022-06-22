@@ -1,0 +1,7 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\bin\Debug\Matematik.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\bin\Debug\Matematik.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\obj\Debug\Matematik.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\Matematik\obj\Debug\Matematik.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\class\bin\Debug\@class.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\class\bin\Debug\@class.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\class\bin\Debug\@class.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\class\obj\Debug\class.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\class\obj\Debug\@class.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\class\obj\Debug\@class.pdb

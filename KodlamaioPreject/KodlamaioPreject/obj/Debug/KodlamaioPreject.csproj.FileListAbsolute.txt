@@ -1,0 +1,7 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\bin\Debug\KodlamaioPreject.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\bin\Debug\KodlamaioPreject.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\bin\Debug\KodlamaioPreject.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\obj\Debug\KodlamaioPreject.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\obj\Debug\KodlamaioPreject.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\obj\Debug\KodlamaioPreject.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\KodlamaioPreject\obj\Debug\KodlamaioPreject.pdb

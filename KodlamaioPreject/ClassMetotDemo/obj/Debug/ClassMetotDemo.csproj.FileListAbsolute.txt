@@ -1,0 +1,7 @@
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\KodlamaioPreject\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
