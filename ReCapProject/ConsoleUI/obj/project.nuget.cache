@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghi4n6f28JKcblnCHf8prS6iui/jrHD7rMlm4cAX0+9stUph/aI6OycVT7Xi5CEJNJ+Kl/8nMBchxV+uLLgj4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eyüphan Akkaya\\Desktop\\csharp\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eyüphan Akkaya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
